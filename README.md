@@ -25,6 +25,3 @@ A fun and interactive terminal-based Hangman game written in Python. The game ra
 - Beginner-friendly code with clear logic
 
 ---
-
-## 🧪 Example Output
-
